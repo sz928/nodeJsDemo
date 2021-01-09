@@ -22,3 +22,6 @@ npm init
 
 
 在填写完信息之后，会出来个这么个东西 package.json
+
+<!-- echo 'package-lock=false' >> .npmrc -->
+<!-- echo 'package-lock.json' >> .gitignore -->
